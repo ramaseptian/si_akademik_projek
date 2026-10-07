@@ -64,3 +64,6 @@ Relasi, dan CRUD Lengkap).
   MahasiswaController sama sekali tidak menulis SQL.
 - Acara 10 ini tidak mengubah perilaku aplikasi - seluruhnya diverifikasi
   ulang (tampil, tambah, ubah, hapus) dan tetap berjalan normal.
+
+## Catatan Riwayat Perubahan
+- Memperbarui file README untuk dokumentasi proyek.
